@@ -21,7 +21,6 @@ public class Phonebook {
             }
             final List<Contact> contacts = phoneBook.get(groupName);
             contacts.add(contact);
-
         }
 
     }
