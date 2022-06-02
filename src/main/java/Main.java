@@ -4,6 +4,7 @@ public class Main {
 
         Phonebook phonebook = new Phonebook();
 
+
         // создаем группы и добавляем контакты
         fillGroup(phonebook);
         addContacts(phonebook);
